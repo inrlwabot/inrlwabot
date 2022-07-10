@@ -5,11 +5,8 @@
 
 - 🔭 I’m currently working on [inrlbots] (https://github.com/inrlwabot/faz)
 
-- 💬 Ask me about **ME**
+- 📫 How to reach me **https://wa.me/917025099154**
 
-- 📫 How to reach me **https://wa.me/917025099161**
-
-- ⚡ Fun fact **I THINK IAM VERY HAPPY**
 
 <!---
 0X-inrl-X0/0X-faz-X0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
